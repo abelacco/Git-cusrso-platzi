@@ -1,5 +1,9 @@
 body {
-    background-color: blue;
+    background-color: salmon;
     font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
+    text-align: center
+}
+
+body p {
+    color: blue;
 }
