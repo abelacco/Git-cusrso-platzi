@@ -5,5 +5,13 @@ body {
 }
 
 body p {
-    color: blue;
+    color: white;
+}
+
+#prueba {
+    width: 100%;
+    height: 100%x;
+    border: 2px solid black;
+    background-color: blue;
+
 }
